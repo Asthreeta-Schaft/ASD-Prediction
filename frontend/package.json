@@ -1,7 +1,6 @@
 {
   "homepage": "https://asthreeta-schaft.github.io/ASD-Prediction",
   "name": "frontend",
-  "homepage": "https://Asthreeta-Schaft.github.io/ASD-Prediction",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -53,7 +53,7 @@ function Home() {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/ASD-Prediction">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />

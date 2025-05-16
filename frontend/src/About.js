@@ -34,7 +34,7 @@ function About() {
       <p>
         <strong>Base Paper:</strong> You can access the original research paper that guided this project here: <br />
         <a 
-          href="\A Hybrid Machine Learning Model for Accurate Autism Diagnosis.pdf" 
+          href="/A%20Hybrid%20Machine%20Learning%20Model%20for%20Accurate%20Autism%20Diagnosis.pdf" 
           target="_blank" 
           rel="noopener noreferrer"
         >
