@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const BASE_URL = 'http://127.0.0.1:5000'; // Flask backend
+// Use your live Render backend URL here:
+const BASE_URL = 'https://asd-prediction-backend.onrender.com';
 
 /**
  * Submit form data to the /predict endpoint
