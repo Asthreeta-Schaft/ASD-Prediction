@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ASD-Prediction/static/css/main.ec38617f.css",
+    "main.js": "/ASD-Prediction/static/js/main.ffd6d7bf.js",
+    "index.html": "/ASD-Prediction/index.html",
+    "main.ec38617f.css.map": "/ASD-Prediction/static/css/main.ec38617f.css.map",
+    "main.ffd6d7bf.js.map": "/ASD-Prediction/static/js/main.ffd6d7bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec38617f.css",
+    "static/js/main.ffd6d7bf.js"
+  ]
+}
