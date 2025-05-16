@@ -10,7 +10,7 @@ function Navbar() {
     <>
       <nav className="navbar">
         <div className="navbar-logo">
-          <img src="/logo-no-background.png" alt="Logo" height="40" />
+          <img src={`${process.env.PUBLIC_URL}/logo-no-background.png`} alt="Logo" height="40" />
         </div>
 
         <div className="navbar-links-desktop">
